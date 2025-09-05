@@ -1,0 +1,5 @@
+{
+  "name": "AstroBeam",
+  "description": "AstroBeam is a browser-based, cross-platform P2P file-sharing web application that enables large, secure, real-time file transfers between users with zero cloud storage. It’s designed with an astrology-themed UI and brand identity to enhance the user experience.",
+  "requestFramePermissions": []
+}
